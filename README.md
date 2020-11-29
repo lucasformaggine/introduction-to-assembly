@@ -1,5 +1,5 @@
 # introduction-to-assembly
-My first program in Assembly: a coin changer program
+My first program in Assembly: a coin change program
 
 The program is an exercise about the following situation: "The Automatic Seller Machine (ASM) company developed an automatic product sales machine and intends to make this machine available on the Brazilian market.
 
